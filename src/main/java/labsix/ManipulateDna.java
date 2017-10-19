@@ -84,7 +84,7 @@ public class ManipulateDna {
     
     // Step Six: Display a final thankyou message
     System.out.println("Thanks for using the Manipulation program. ");
-    System.out.println("Have an awesome day. ");
+    System.out.println("Have an great day. ");
   }
 
 }
